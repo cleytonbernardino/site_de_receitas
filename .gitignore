@@ -1,1 +1,5 @@
+# DJANGO AND PYTHON
 .venv
+__pycache__
+midia
+db.sqlite3
