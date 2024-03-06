@@ -1,3 +1,4 @@
-from .recipes import *
+from .authors import AuthorCreateView, AuthorsView
+from .recipes import RecipeView
 
-__all__ = [Recipe]
+__all__ = [RecipeView, AuthorsView, AuthorCreateView]
